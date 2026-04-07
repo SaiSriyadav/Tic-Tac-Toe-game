@@ -1,4 +1,6 @@
 Tic-Tac-Toe Game (Python - Tkinter)
+github link https://github.com/SaiSriyadav/Tic-Tac-Toe-game
+
 
 A simple and interactive Tic-Tac-Toe game built using Python, Tkinter, and NumPy. This project provides a graphical user interface (GUI) where two players can play the classic game with score tracking.
 
